@@ -1,2 +1,2 @@
-# Midnight-musings
-Random Code for problems from various books/online-platforms and some midnight projects
+# Python-Workbook Ben Stephenson
+Some Code for problems from ben stephenson's book the Python Workbook
